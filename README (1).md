@@ -1,5 +1,4 @@
-# BFS vs DFS Performance Analysis on the 4-Queens Problem
-
+# IAI-BFS-VS-DFS-BY-4-QUEEN-
 > SLE-2: Profiling Report — Comparing Breadth-First Search and Depth-First Search on the 4-Queens problem, with real measured timings and py-spy profiling.
 
 ## Project Overview
